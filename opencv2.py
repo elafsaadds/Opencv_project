@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/12KSWnkof_a1CTtSE0BcJVFjrPY0YoN47
 """
 
-pip install streamlit
-pip install opencv-python-headless
-pip install pytesseract
+
 import streamlit as st
 import cv2
 import numpy as np
